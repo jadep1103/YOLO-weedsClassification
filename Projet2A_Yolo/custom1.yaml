@@ -1,0 +1,9 @@
+train: C:\Users\ambro\OneDrive\Bureau\Yolov8\train 
+val:  C:\Users\ambro\OneDrive\Bureau\Yolov8\val
+
+# number of classes
+nc: 12
+
+# class names
+names: [ 'Waterhemp', 'MorningGlory', 'Purslane', 'SpottedSpurge', 'Carpetweed', 'Ragweed', 'Eclipta', 'PricklySida', 'PalmerAmaranth', 'Sicklepod',
+         'Goosegrass', 'Cutleafgroundcherry']
